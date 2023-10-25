@@ -1,3 +1,4 @@
-body > p:last-child {
-    color:lightslategrey;
-}
+const $ = require( "jquery" );
+import "./footer.css";
+
+$('body').append("<p>Copyright - Holberton School</p>");

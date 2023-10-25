@@ -4,11 +4,11 @@
 
 Brace yourselves, Webpack is comming
 
--   How to setup Webpack for a basic project
--   Entry points, output, and loaders
--   How to add plugins
--   How to split your code into chunks
--   How to setup a dev server
+- How to setup Webpack for a basic project
+- Entry points, output, and loaders
+- How to add plugins
+- How to split your code into chunks
+- How to setup a dev server
 
 ## Technologies & Tools:computer:
 
@@ -33,16 +33,16 @@ Brace yourselves, Webpack is comming
 
 Read or watch:
 
--   [Webpack documentation](https://webpack.js.org/concepts/)
--   [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
--   [npm-package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json)
--   [Debounce documentation on Lodash](https://lodash.com/docs/#debounce)
+- [Webpack documentation](https://webpack.js.org/concepts/)
+- [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
+- [npm-package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json)
+- [Debounce documentation on Lodash](https://lodash.com/docs/#debounce)
 
 ---
 
 ## Requirements:hammer:
 
--   Ubuntu 18.04 LTS using Node 12.x.x
+- Ubuntu 18.04 LTS using Node 12.x.x
 
 ### Install NodeJS 12.22.x
 
